@@ -20,4 +20,4 @@ end
 
 def whisper(lowercase)
     lowercase.downcase
-end
+end   
